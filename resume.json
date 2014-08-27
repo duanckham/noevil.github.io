@@ -1,0 +1,81 @@
+{
+  "basics": {
+    "name": "段聪",
+    "label": "全端开发工程师",
+    "picture": "",
+    "email": "noevil@foxmail.com",
+    "phone": "18210063389",
+    "website": "",
+    "summary": "两年的全端开发经验，一直专注于Web方面的工作，是个有很强代码规范能力的人，对逻辑实现的准确和优雅程度非常挑剔和任性。同时，Web的安全课题也是我一直以来的挚爱。我好奇心强，很多新鲜的东西我都喜欢学习和尝试。希望能不仅仅是找到一份工作，而是得到一个可以为之奋斗终生的事业。",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "北京",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "noevil",
+        "url": "http://github.com/noevil"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Goyoo / 北京光音盛世信息技术有限公司",
+      "position": "全端开发工程师",
+      "website": "http://www.goyoo.com/",
+      "startDate": "2012-10-10",
+      "endDate": "2014-08-30",
+      "summary": "主要负责公司前沿产品的开发和维护。部门刚成立的时候便来到这个组，和主要产品一起成长，经历了诸多成功和失败。两年来做了很多东西，但真正持续在线的并不多，即便如此我仍然感激我的领导，感激他们对我的信任，几乎后来所有的项目都是我自己一个人负责，这使我受益匪浅。",
+      "highlights": [
+        "Trends，一个互联网广告趋势分析系统（独立开发）",
+        "DNS，给自己公司的广告平台以及其他产品使用（独立开发）",
+        "360 SemEditor，给360搜索引擎做的广告投放软件（协作开发）",
+        "NodeFUSE，FUSE的node绑定（独立开发）",
+        "LeWiFi Admin，LeWiFi商户后台（独立开发）",
+        "LeWiFi Panel，LeWiFi路由器控制面板（独立开发）",
+        "Yun平台若干支撑类App（独立开发）",
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "大连民族学院",
+      "area": "软件工程专业",
+      "studyType": "学士学位",
+      "startDate": "2009-09-01",
+      "endDate": "2013-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "JavaScript / NodeJS",
+        "CSS",
+        "PHP",
+        "PYTHON"
+      ]
+    },
+    {
+      "name": "GUI",
+      "level": "",
+      "keywords": [
+        "C/C++",
+        "Delphi"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
